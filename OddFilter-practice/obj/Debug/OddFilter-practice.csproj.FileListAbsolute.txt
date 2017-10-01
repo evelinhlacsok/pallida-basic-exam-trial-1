@@ -1,0 +1,6 @@
+/Users/evelinhlacsok/Documents/greenfox/pallida-basic-exam-trial-1/OddFilter-practice/bin/Debug/OddFilter_practice.exe
+/Users/evelinhlacsok/Documents/greenfox/pallida-basic-exam-trial-1/OddFilter-practice/bin/Debug/OddFilter_practice.pdb
+/Users/evelinhlacsok/Documents/greenfox/pallida-basic-exam-trial-1/OddFilter-practice/obj/Debug/OddFilter-practice.csprojResolveAssemblyReference.cache
+/Users/evelinhlacsok/Documents/greenfox/pallida-basic-exam-trial-1/OddFilter-practice/obj/Debug/OddFilter-practice.csproj.CoreCompileInputs.cache
+/Users/evelinhlacsok/Documents/greenfox/pallida-basic-exam-trial-1/OddFilter-practice/obj/Debug/OddFilter_practice.exe
+/Users/evelinhlacsok/Documents/greenfox/pallida-basic-exam-trial-1/OddFilter-practice/obj/Debug/OddFilter_practice.pdb
