@@ -1,0 +1,6 @@
+/Users/evelinhlacsok/Documents/greenfox/pallida-basic-exam-trial-1/NameFromEmail-practice/bin/Debug/NameFromEmail_practice.exe
+/Users/evelinhlacsok/Documents/greenfox/pallida-basic-exam-trial-1/NameFromEmail-practice/bin/Debug/NameFromEmail_practice.pdb
+/Users/evelinhlacsok/Documents/greenfox/pallida-basic-exam-trial-1/NameFromEmail-practice/obj/Debug/NameFromEmail-practice.csprojResolveAssemblyReference.cache
+/Users/evelinhlacsok/Documents/greenfox/pallida-basic-exam-trial-1/NameFromEmail-practice/obj/Debug/NameFromEmail-practice.csproj.CoreCompileInputs.cache
+/Users/evelinhlacsok/Documents/greenfox/pallida-basic-exam-trial-1/NameFromEmail-practice/obj/Debug/NameFromEmail_practice.exe
+/Users/evelinhlacsok/Documents/greenfox/pallida-basic-exam-trial-1/NameFromEmail-practice/obj/Debug/NameFromEmail_practice.pdb
