@@ -1,0 +1,6 @@
+/Users/evelinhlacsok/Documents/greenfox/pallida-basic-exam-trial-1/UrlsFromHandles-practice/bin/Debug/UrlsFromHandles_practice.exe
+/Users/evelinhlacsok/Documents/greenfox/pallida-basic-exam-trial-1/UrlsFromHandles-practice/bin/Debug/UrlsFromHandles_practice.pdb
+/Users/evelinhlacsok/Documents/greenfox/pallida-basic-exam-trial-1/UrlsFromHandles-practice/obj/Debug/UrlsFromHandles-practice.csprojResolveAssemblyReference.cache
+/Users/evelinhlacsok/Documents/greenfox/pallida-basic-exam-trial-1/UrlsFromHandles-practice/obj/Debug/UrlsFromHandles-practice.csproj.CoreCompileInputs.cache
+/Users/evelinhlacsok/Documents/greenfox/pallida-basic-exam-trial-1/UrlsFromHandles-practice/obj/Debug/UrlsFromHandles_practice.exe
+/Users/evelinhlacsok/Documents/greenfox/pallida-basic-exam-trial-1/UrlsFromHandles-practice/obj/Debug/UrlsFromHandles_practice.pdb
